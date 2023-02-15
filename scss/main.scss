@@ -1,1 +1,10 @@
-@import url(./utilidades/_reset.scss);
+// VARIABLES
+@import './utilidades/_reset.scss';
+
+@import './utilidades/color';
+
+// SECCIONES
+
+@import './secciones/header';
+@import './secciones/banner-index';
+@import './secciones/footer';
