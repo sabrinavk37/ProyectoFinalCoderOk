@@ -24,3 +24,20 @@
     text-decoration: none;
 }
 
+.btn{
+    color: $verde;
+    outline-color: $verde ;
+}
+
+// ================================ MENUUUU ===============================
+
+#menu {
+    margin: 0;
+    padding: 0;
+    max-width: 80% fit-content;
+}
+
+#menu button{
+    font-size: 18 px;
+    font-weight: bold;
+}
